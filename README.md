@@ -1,13 +1,13 @@
-# Hair_hauler
+## Hair_hauler
 #OUR PROBLEM STATEMENT IS:
 
 Human hair is considered a waste material in most parts of the world. Half of the masses consider human hair useless and often dump it as municipal waste. Many industries rely on hair as a key raw material, yet it is often overlooked. The inability to transport raw material to the designated location is a huge issue.
 
-#PROPOSED SOLUTION
+## PROPOSED SOLUTION
 
 Our goal is to create a website that's serves as a bridge between salons and industries , connecting them for mutual benefits. Our plan is to collect the waste hair from engaged and interested salons. We will then proceed to categorize the hairs based on their qualities, texture and length. We then plan to cater to the hair needs of industries by offering a variety of textures and lengths, with hair serving as the primary source material for our supply. We will rate the hair according to the industrie's requirements based on the quality they need.
 
-#OUR TARGET USERS ARE: '
+## OUR TARGET USERS ARE: '
 
 1.WIG MAKING INDUSTRIES: Human hair possesses a versatile quality that makes it suitable for cleaning and utilization in creating various beauty hair accessories such as artificial wigs, eyelashes, hair extensions, beards, and moustaches. The industry that manufactures such products has emerged as one of the largest and most expansive global human hair industries. The enduring demand for wigs, beards, and moustaches spans several generations and cultures. Moreover, the use of fake eyelashes has become a popular practice in the entertainment and fashion industry, serving as an effective means of enhancing the aesthetic appeal of one's facial features.
 
@@ -19,7 +19,8 @@ Our goal is to create a website that's serves as a bridge between salons and ind
 
 OTHRES: The unique properties of human hair, such as its texture and thermal insulation, make it an ideal material for use in the manufacturing of stuffed toys and household items such as cushions. Additionally, excess human hair is commonly utilized in laboratory testing for these products. Moreover, mats produced using human hair have been found to be highly effective in controlling oil spills. The human hair industry has made significant contributions to the Indian economy and the global many big insdustries
 
-#TECH STACK HTML CSS JAVASCRIPT
+## TECH STACK:
+HTML CSS JAVASCRIPT
 
 #LABORATRY: Our company is dedicated to providing high-quality hair products to our customers. In order to ensure that we are meeting our customers' specific needs, we will be collaborating with small scale laboratories to conduct rigorous testing and analysis of our hair materials. This testing will involve evaluating the quality, texture, and other characteristics of the hair, and sorting it into distinct categories based on these attributes. By doing so, we will be able to offer our customers a streamlined and efficient process for ordering the precise raw materials that their company requires. Our commitment to quality and attention to detail in this process will enable us to continue providing exceptional hair products to our valued customers.
 
